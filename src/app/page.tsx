@@ -71,7 +71,7 @@ export default function Page() {
         placementStore.setUser(SAMPLE_USER);
       }
     }
-  }, []);
+  }, [placementStore]);
 
   if (!user) {
     return null;

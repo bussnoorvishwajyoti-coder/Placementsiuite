@@ -145,7 +145,7 @@ export default function ProofPage() {
             <div className="bg-white rounded-lg shadow-md p-8 border-l-4 border-primary">
               <h2 className="text-2xl font-bold text-dark mb-4">The Vision</h2>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Students don't need three separate tools—they need one continuous flow. Placement Suite connects the
+                Students don&apos;t need three separate tools—they need one continuous flow. Placement Suite connects the
                 entire journey:
               </p>
               <div className="flex items-center gap-4 text-lg font-semibold text-gray-800">
