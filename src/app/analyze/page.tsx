@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Navbar from "@/components/Navbar";
-import { FileText, BarChart3, AlertCircle, CheckCircle } from "lucide-react";
+import { BarChart3, AlertCircle, CheckCircle } from "lucide-react";
 import { jdAnalyzer } from "@/modules/jd-analyzer";
 import { JDAnalysis } from "@/types";
 
